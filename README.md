@@ -2,64 +2,53 @@
 
 ### BCA Student | Aspiring Software Developer
 
-🎓 Bachelor of Computer Applications student at the School of Environmental Science and Management (SchEMS).
+I'm a Bachelor of Computer Applications (BCA) student at the **School of Environmental Science and Management (SchEMS)**, interested in building practical software applications and improving my problem-solving skills.
 
-💻 I enjoy building practical web applications and learning how software works, from backend logic to user interfaces.
+I enjoy learning by building projects, exploring new technologies, and turning ideas into working applications.
 
-🌱 Currently strengthening my skills in Python, Django, Java, and web development.
+* 🎓 BCA student, expected graduation: 2027
+* 💻 Interested in web development and software engineering
+* 🌱 Currently strengthening my Python, Django, Java, and web development skills
+* 🛠️ Learning through hands-on projects and continuous practice
 
----
+## 🧰 Technologies
 
-## 👩‍💻 About Me
-
-* 🎓 Pursuing BCA (2023–2027)
-* 🛠️ Interested in web development and software engineering
-* 📚 Learning by building hands-on projects
-* 🎯 Working towards becoming a well-rounded software developer
-
-## 🧰 Technologies & Tools
-
-**Languages:** Python, Java, C, JavaScript, HTML, CSS
-
-**Frameworks:** Django, Spring Boot
-
+**Programming:** Python, Java, C, JavaScript
+**Web Development:** HTML, CSS, Django, Spring Boot
 **Databases:** MySQL, SQLite
-
 **Tools:** Git, GitHub, VS Code, IntelliJ IDEA
 
 ## 🚀 Featured Projects
 
-### 🌏 Nepal Tourism Guide
+### 🌍 Nepal Tourism Guide
 
-A tourism and travel-planning web application featuring destinations, hotels, reviews, and travel routes across Nepal.
+A Django-based tourism project for exploring destinations in Nepal, discovering hotels, and viewing travel routes on a map.
 
 **Tech:** Python, Django, Bootstrap, Leaflet
 
 ### 📦 Inventory Management System
 
-A web application for managing products, categories, suppliers, stock movements, and inventory statistics.
+A web application for managing products, categories, suppliers, and stock movements, with search and dashboard features.
 
 **Tech:** Python, Django, Tailwind CSS
 
 ### 🎙️ Nepali Speech-to-Text Notes
 
-A web application that uses Nepali speech recognition to help users create and manage notes.
+A web application for creating and managing notes using Nepali speech recognition, with note editing and deletion features.
 
-**Tech:** Python, Django, JavaScript
+**Tech:** Python, Django, JavaScript, Web Speech API
 
----
+### ☕ Java Mini Projects
 
-## 📚 Currently Learning
+A collection of small Java programs exploring programming fundamentals through games, utilities, and simple applications.
 
-* Improving my Django and backend development skills
-* Exploring modern frontend development
-* Strengthening problem-solving and software development fundamentals
+**Tech:** Java
 
-## 🤝 Let's Connect
+## 📫 Connect With Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/srishti-sharma-a41171306/)
-* 🐙 [GitHub](https://github.com/SrishtiSharma89)
+* [LinkedIn](https://www.linkedin.com/in/srishti-sharma-a41171306/)
+* [GitHub](https://github.com/SrishtiSharma89)
 
 ---
 
-*Learning, building, and improving one project at a time.* ✨
+*Learning, building, and improving one project at a time.*
